@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Material UI 5 and Figma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nguyencuongdev](https://github.com/nguyencuongdev)
 
